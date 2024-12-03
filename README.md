@@ -1,77 +1,75 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/jesus2419">Jesus Osorio Galvez</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/jesus2419">Jesus Osorio Galvez</a> 👋</h1>
 </div>
+<img src="https://github.com/jesus2419/imagenes/blob/main/fondo.jpeg" alt="Profile Banner" width="800">
 
-[![GitHub followers](https://img.shields.io/github/followers/TuUsuario?style=social)](https://github.com/TuUsuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/TuPerfil)
+[![GitHub Followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/jesus2419)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jesús-osorio-79772a229/)
 
-## Sobre mí
+## About Me
 
-- 🎓 **Recientemente egresado** como Licenciado en multimedia y animación digital.
-- 💻 Apasionado por el desarrollo **web, móvil y multiplataforma**.
-- 🚀 Siempre aprendiendo nuevas tecnologías y participando en proyectos innovadores.
-- 🌍 Enfocado en crear soluciones que mejoren la vida de las personas.
-<br>
+- 🎓 A recent Bachelor of Multimedia and Digital Animation.  
+- 🌟 Focused on building robust, efficient, and user-friendly applications.  
+- 🌱 Currently exploring **multi-cloud infrastructures** and **backend optimization**.  
+- 💬 Feel free to reach out if you want to discuss ideas or collaborate!  
 
-## Tecnologías y Habilidades
+---
 
-### **Lenguajes de programación**  
-- PHP  
-- Java  
-- Kotlin  
-- C++  
-- C#  
-- Ensamblador  
-- JavaScript  
+## Skills & Tools  
 
-### **Gestores de bases de datos**  
-- MySQL  
-- SQL Server  
-- Cassandra  
+### Programming Languages
+- **Proficient:** Java, Kotlin, JavaScript, PHP  
+- **Familiar:** C++, C#, Assembly Language  
 
-### **Herramientas y entornos de desarrollo**  
-- Android Studio  
-- Apache XAMPP  
-- Apache Tomcat  
-- NetBeans  
+### Frameworks & Tools
+- **Mobile Development:** Android Studio  
+- **Web Development:** Apache Tomcat, XAMPP  
+- **Other Tools:** NetBeans  
 
-## Proyectos destacados
+### Databases
+- **Relational:** MySQL, SQL Server  
+- **NoSQL:** Cassandra  
+
+---
+
+## My Projects  
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema de Gestión Clínica</h3>
+<h3 align="center">Stardobys</h3>
 <div align="center">
-<a href="https://github.com/TuUsuario/GestionClinica" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Proyecto Gestión Clínica"></a>
+<a href="https://github.com/jesus2419/StarDobys"><img src="https://github.com/jesus2419/imagenes/blob/main/stardobys2.png" alt="Project 1" width="400"></a>
 <p>
-<a href="https://github.com/TuUsuario/GestionClinica" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/jesus2419/StarDobys">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Proyecto de gestión clínica con módulos de registro de pacientes, consultas y análisis de datos, utilizando <strong>PHP, MySQL y Bootstrap</strong>.</p>
+<p>Stardobys is a web-based social network built with React, Node.js, and MySQL designed to connect music artists with their fans. The platform allows artists to share their music, interact with followers, and grow their fanbase. Fans can discover new music, follow their favorite artists, comment on posts, and stay updated on upcoming releases and events.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">App de Servicios</h3>
+<h3 align="center">Servinear</h3>
 <div align="center">
-<a href="https://github.com/TuUsuario/ServiciosApp" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="App de Servicios"></a>
+<a href="https://github.com/jesus2419/ServiNear"><img src="https://github.com/jesus2419/imagenes/blob/main/servinear.png" alt="Project 2" width="400"></a>
 <p>
-<a href="https://github.com/TuUsuario/ServiciosApp" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/jesus2419/ServiNear">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación móvil para conectar a profesionales con clientes, desarrollada con <strong>Kotlin y Firebase</strong>. Incluye funciones de registro, búsqueda y gestión de servicios.</p>
+<p>This is a mobile application built using Kotlin and Android Studio designed to connect users with various service providers. The app allows users to browse, request, and rate services offered by professionals in different fields. Whether you're looking for someone to handle home repairs, personal training, tutoring, or other freelance services, this app makes it easy to find the right person for the job.</p>
 </div>
 </td>
 </tr>
 </table>
-<br>
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### ⚙️ &nbsp;GitHub Analytics  
 
 <p align="center">
 <a href="https://github.com/jesus2419">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesus2419&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesus2419&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
