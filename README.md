@@ -18,16 +18,33 @@
 ## Skills & Tools  
 
 ### Programming Languages
-- **Proficient:** Java, Kotlin, JavaScript, PHP  
-- **Familiar:** C++, C#, Assembly Language  
-
+Angular
+.Net
+React
+SQL
+C++
+C#
+Java script
+PHP
+AWS
+Azure
+Kotlin
+Java
+Phyton
+Assembly language
+Power bi
+Node js
+Mysql
+Cassandra
+Oracle
+Mongo db
 ### Frameworks & Tools
 - **Mobile Development:** Android Studio  
-- **Web Development:** Apache Tomcat, XAMPP  
+- **Web Development:** Apache Tomcat, XAMPP, react, angular. 
 - **Other Tools:** NetBeans  
 
 ### Databases
-- **Relational:** MySQL, SQL Server  
+- **Relational:** MySQL, SQL Server, postgres
 - **NoSQL:** Cassandra  
 
 ---
