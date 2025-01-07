@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://github.com/jesus2419">Jesus Osorio Galvez</a> 👋</h1>
 </div>
-<img src="https://github.com/jesus2419/imagenes/blob/main/fondo.jpeg" alt="Profile Banner" width="800">
 
 [![GitHub Followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/jesus2419)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jesús-osorio-79772a229/)
