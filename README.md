@@ -5,18 +5,13 @@
 [![GitHub Followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/jesus2419)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jesús-osorio-79772a229/)
 
-## About Me
-
-- 🎓 A recent Bachelor of Multimedia and Digital Animation.  
-- 🌟 Focused on building robust, efficient, and user-friendly applications.  
-- 🌱 Currently exploring **multi-cloud infrastructures** and **backend optimization**.  
-- 💬 Feel free to reach out if you want to discuss ideas or collaborate!  
-
 ---
 
 ## Skills & Tools  
 
 ### Programming Languages
+Kotlin
+Dart
 Angular
 .Net
 React
