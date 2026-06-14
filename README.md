@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Hi, I'm <a href="https://github.com/jesus2419">Jesus Osorio Galvez</a> 👋</h1>
+<h1>Hi, I'm <a href="https://github.com/jesus2419">Jesus Osorio Galvez</a></h1>
 <h3>Backend & Mobile Developer · Native Android · Flutter · RESTful APIs</h3>
 
-### 🌐 &nbsp;[**Visit my Portfolio → jesus2419.github.io**](https://jesus2419.github.io/)
+### [**Visit my Portfolio → jesus2419.github.io**](https://jesus2419.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesús-osorio-79772a229/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jesus2419.github.io-ff1f4b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jesus2419.github.io/)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📦 Published Packages
+## Published Packages
 
 | Package | Description | Links |
 |---------|-------------|-------|
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -63,61 +63,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Stardobys</h3>
-<div align="center">
-<a href="https://github.com/jesus2419/StarDobys"><img src="https://github.com/jesus2419/imagenes/blob/main/stardobys2.png?raw=true" alt="Stardobys" width="400"></a>
-<p>
-<a href="https://github.com/jesus2419/StarDobys"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p>Web-based social network built with React, Node.js, and MySQL that connects music artists with their fans. Artists share their music and grow their fanbase, while fans discover new releases, follow favorites, and engage with posts.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">ServiNear</h3>
-<div align="center">
-<a href="https://github.com/jesus2419/ServiNear"><img src="https://github.com/jesus2419/imagenes/blob/main/servinear.jpg?raw=true" alt="ServiNear" width="400"></a>
-<p>
-<a href="https://github.com/jesus2419/ServiNear"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p>Mobile marketplace built with Kotlin and Android Studio that connects users with local service providers — browse, request, and rate professionals across home repair, training, tutoring, and other freelance services.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">Neneros Finance</h3>
-<div align="center">
-<a href="https://github.com/jesus2419/financial_app"><img src="https://github.com/jesus2419/imagenes/blob/main/neneros.png?raw=true" alt="Neneros Finance" width="400"></a>
-<p>
-<a href="https://github.com/jesus2419/financial_app"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p>Cross-platform personal finance app built with Flutter for Android and iOS. Tracks expenses, sets savings goals, and analyzes spending habits with AI-powered insights, biometric auth, real-time sync, and PDF reports.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">GymFit</h3>
-<div align="center">
-<a href="https://github.com/jesus2419/GYM-Android"><img src="https://github.com/jesus2419/imagenes/blob/main/gym.jpg?raw=true" alt="GymFit" width="400"></a>
-<p>
-<a href="https://github.com/jesus2419/GYM-Android"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p>Gym management app for Android built with Kotlin and Jetpack Compose. Tracks workouts, explores trainer profiles, and builds personalized routines, with exercise libraries, progress analytics, and offline access via SQLite.</p>
-</div>
-</td>
-</tr>
-</table>
-
----
-
-### ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jesus2419">
